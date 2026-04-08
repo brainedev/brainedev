@@ -1,16 +1,16 @@
 # William Brian Williams
 
-Builder, architect, and lifelong problem-solver focused on **privacy-first systems and digital trust**.
+Builder, architect, and lifelong problem-solver focused on **privacy-first systems and digital trust**.  
 Senior-level architect currently working in systems analysis (with a bias toward building what should exist next).
 
 ---
 
 ## What I’m Working On
 
-- **Applicert** — Consent-Based Data Objects (CBDOs)  
-  A new model for verification where systems ask questions of data and receive verifiable answers — without exposing the underlying information.
+- **Applicert — Verifiable Minimal Disclosure (VMD)**  
+  A model for verification where systems ask questions of data and receive minimal, verifiable answers — without exposing the underlying information.
 
-👉 https://github.com/applicert/cbdo-core-engine
+👉 https://github.com/applicert/vmd-core-engine
 
 ---
 
@@ -25,10 +25,10 @@ My experience includes:
 - Translating messy real-world problems into clean technical solutions  
 
 More recently, I’ve been focused on:
-- Verifiable Credentials (W3C)
-- Decentralized Identity (DID)
-- Privacy-preserving system design
-- Cryptographic verification models
+- Verifiable Credentials (W3C)  
+- Decentralized Identity (DID)  
+- Privacy-preserving system design  
+- Cryptographic verification models  
 
 ---
 
@@ -43,7 +43,7 @@ I’m interested in systems that:
 - Align technical behavior with real-world expectations  
 - Solve problems at the *model level*, not just the implementation layer  
 
-CBDOs are an attempt to move from:
+VMD is an attempt to move from:
 
 > sharing data  
 to  
@@ -71,4 +71,4 @@ When I’m not building:
 
 ---
 
-If you’ve taken a look at CBDOs, I’d genuinely value your take.
+If you’ve taken a look at VMD, I’d genuinely value your perspective.
