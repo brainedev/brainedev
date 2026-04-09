@@ -57,7 +57,7 @@ When I’m not building:
 
 - Writing and producing music (E-Z-A 🎤, HardTap 🎸)  
 - Developing creative story universes (ASA-9, The Shadow Master)  
-- Co-developing and play testing RPG campaign settings (Moons of Ibis)  
+- Play testing and contributing to RPG campaign settings (Moons of Ibis)  
 - Exploring AI-assisted content creation  
 - Thinking about systems, incentives, and how things actually work under the hood  
 
