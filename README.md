@@ -7,8 +7,8 @@ Senior-level architect currently working in systems analysis (with a bias toward
 
 ## What I’m Working On
 
-- **Applicert — Verifiable Minimal Disclosure (VMD)**  
-  A model for verification where systems ask questions of data and receive minimal, verifiable answers — without exposing the underlying information.
+- **Applicert – Verifiable Minimal Disclosure (VMD)**  
+  A model for verification where systems ask questions of data and receive minimal, verifiable answers – without exposing the underlying information.
 
 👉 https://github.com/applicert/vmd-core-engine
 
@@ -16,7 +16,7 @@ Senior-level architect currently working in systems analysis (with a bias toward
 
 ## Background
 
-I’ve spent years working across the stack as a developer and systems architect — designing, building, and troubleshooting real-world systems under real constraints.
+I’ve spent years working across the stack as a developer and systems architect – designing, building, and troubleshooting real-world systems under real constraints.
 
 My experience includes:
 - Software architecture and full-stack development  
@@ -34,7 +34,7 @@ More recently, I’ve been focused on:
 
 ## How I Think
 
-I tend to question assumptions — especially when “that’s just how it’s done” is the answer.
+I tend to question assumptions – especially when “that’s just how it’s done” is the answer.
 
 I’m interested in systems that:
 
